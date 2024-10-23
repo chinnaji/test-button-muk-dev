@@ -1,6 +1,6 @@
 {
-  "name": "test-button-muk-dev",
-  "version": "1.0.2",
+  "name": "test-button-king-dev",
+  "version": "1.0.3",
   "description": "This is test button made for a tutorial",
   "main": "dist/cjs/index.js",
   "files": [
@@ -10,7 +10,7 @@
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"
   },
-  "author": "MUK-Dev",
+  "author": "chinnaji",
   "license": "MIT",
   "type": "module",
   "keywords": [
